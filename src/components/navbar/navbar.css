@@ -1,0 +1,11 @@
+navbar{
+    background: rgb(224, 13, 6);
+    color:white;
+    display: flex;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+}
+
